@@ -1,3 +1,3 @@
 # FunQrcode
 
-<img src='https://github.com/arunike/FunQrcode/blob/main/Qrcode.gif' width='500'>
+<img src='https://github.com/arunike/FunQrcode/blob/main/Qrcode.gif' width='300'>
