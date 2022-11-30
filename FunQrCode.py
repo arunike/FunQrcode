@@ -10,6 +10,6 @@ version, level, qr_name = amzqr.run(
     colorized = True, ## Colorized QR code
     contrast = 1.0, ## Contrast of QR code
     brightness = 1.0, ## Brightness of QR code
-    save_name = "qrcode.gif", ## Name of QR code
+    save_name = "MyWebQRCode.gif", ## Name of QR code
     save_dir = os.getcwd() ## Directory to save QR code
 )
